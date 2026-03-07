@@ -59,8 +59,8 @@ Aspiring Machine Learning & AI Engineer
 
 ## Connect With Me
 
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Portfolio: https://yourportfolio.com
+- LinkedIn: https://linkedin.com/in/jobayed003
+- Portfolio: https://jobayed.net
 - Email: jobayed803@gmail.com
 
 ---
