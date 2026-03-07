@@ -1,22 +1,22 @@
 # Hi there 👋 I'm Mohammad Jobayed Hossain
 
-💻 Full-Stack JavaScript Developer  
-🎓 Computer Science Student  
-🤖 Aspiring Machine Learning & AI Engineer  
+Full-Stack JavaScript Developer  
+Computer Science Student 
+Aspiring Machine Learning & AI Engineer  
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 💻 Full-stack developer working with **JavaScript and React**
-- 🌱 Currently learning **Machine Learning and Artificial Intelligence**
-- 📱 Exploring **Flutter for mobile development**
-- ☁️ Interested in **DevOps and scalable systems**
-- 🎯 Long-term goal: Work in **big tech / AI engineering**
+- Full-stack developer working with **JavaScript and React**
+- Currently learning **Machine Learning and Artificial Intelligence**
+- Exploring **Flutter for mobile development**
+- Interested in **DevOps and scalable systems**
+- Long-term goal: Work in **big tech / AI engineering**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 - JavaScript
@@ -48,7 +48,7 @@
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Machine Learning Fundamentals
 - Data Structures & Algorithms
@@ -57,12 +57,12 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 🌍 Portfolio: https://yourportfolio.com
-- 📧 Email: your@email.com
+- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- Portfolio: https://yourportfolio.com
+- Email: jobayed803@gmail.com
 
 ---
 
-⭐ *Always learning, always building.*
+*Always learning, always building.*
