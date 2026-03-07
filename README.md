@@ -12,8 +12,6 @@ Aspiring Machine Learning & AI Engineer
 - Currently learning **Machine Learning and Artificial Intelligence**
 - Exploring **Flutter for mobile development**
 - Interested in **DevOps and scalable systems**
-- Long-term goal: Work in **big tech / AI engineering**
-
 ---
 
 ## Tech Stack
