@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Jobayed Hossain
+# Hi there, I'm Jobayed Hossain
 
 Full-Stack JavaScript Developer  
 Computer Science Student 
