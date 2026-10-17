@@ -1,17 +1,19 @@
 # Hi there, I'm Jobayed Hossain
 
 Full-Stack JavaScript Developer  
-Computer Science Student 
-Aspiring Machine Learning & AI Engineer  
+Computer Science Student  
+Interested in Backend Systems & Security Engineering  
 
 ---
 
 ## About Me
 
 - Full-stack developer working with **JavaScript and React**
-- Currently learning **Machine Learning and Artificial Intelligence**
+- Building customer-facing web applications with a **Node.js and Firebase** backend
+- Currently learning **Go** and system design
 - Exploring **Flutter for mobile development**
 - Interested in **DevOps and scalable systems**
+
 ---
 
 ## Tech Stack
@@ -25,8 +27,8 @@ Aspiring Machine Learning & AI Engineer
 ### Frontend
 - React
 - Next.js
-- HTML
-- CSS
+- Redux
+- Chakra UI
 - Tailwind
 
 ### Backend
@@ -43,13 +45,22 @@ Aspiring Machine Learning & AI Engineer
 - Docker
 - Linux
 - VS Code
+- Agentic coding (Cursor)
+
+---
+
+## How I Work
+
+- Use agentic coding tools to speed up implementation, and review and own every change that ships
+- Care about code quality, architecture, and maintainable patterns
 
 ---
 
 ## Currently Learning
 
-- Machine Learning Fundamentals
+- Go
 - Data Structures & Algorithms
+- System Design
 - Flutter App Development
 - DevOps basics
 
