@@ -34,12 +34,15 @@ Full-stack expense tracker with guest/demo mode, AI-assisted receipt extraction,
 
 ## Tech Stack
 
-**Languages:** JavaScript, TypeScript, Python, SQL
-**Frontend:** React, Next.js, Redux, Tailwind, Chakra UI, shadcn/ui
-**Backend:** Node.js, Express, REST APIs, Firebase, Supabase
-**Mobile:** Flutter
-**Tools:** Git, Docker, Linux, VS Code, agentic coding (Cursor)
+**Languages:** JavaScript, TypeScript, Python, SQL, C, C++, Java
 
+**Frontend:** React, Next.js, Redux, Tailwind, Chakra UI, shadcn/ui
+
+**Backend:** Node.js, Express, REST APIs, Firebase, Supabase
+
+**Mobile:** Flutter
+
+**Tools:** Git, Docker, Linux, VS Code, agentic coding (Cursor)
 ---
 
 ## Currently Learning
