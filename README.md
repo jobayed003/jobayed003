@@ -27,23 +27,23 @@ user progress tracking across devices.
 
 ## Projects
 
-  - **Income Expense** - Full-stack expense tracker with a guest/demo mode, AI-assisted receipt extraction, and a UI that works on both desktop and mobile.
+  - **Income Expense** - Full-stack expense tracker with a guest/demo mode, AI-assisted receipt extraction, and a UI that works on both desktop and mobile | [Visit Site](https://income-expense-azure.vercel.app/)
     - Track income and expenses across cash, bank, and card accounts in different currencies
     - Set monthly budgets and see spending by category
     - Works offline and syncs when user is back online
 
     **Stack:** Next.js, TypeScript, Tailwind, Supabase, React Query, Zod, Recharts
 
-    [Visit Site ↗](https://income-expense-azure.vercel.app/)
+    
 
-  - **RoamerRadar** - Full-stack travel marketplace for booking stays, flights, cars, and experiences, with live flight search, Stripe checkout, and user messaging.
+  - **RoamerRadar** - Full-stack travel marketplace for booking stays, flights, cars, and experiences, with live flight search, Stripe checkout, and user messaging | [Visit Site](https://roamerradar.vercel.app)
     - Authentication with email verification plus Google and GitHub OAuth (NextAuth v5, JWT sessions, middleware-protected routes)
     - Live flight offers via the Duffel API, cached in PostgreSQL and reused at checkout
     - Stripe payment integration
 
     **Stack:** Next.js, TypeScript, Prisma, Supabase, Stripe, Tailwind, shadcn/ui
 
-    [Visit Site ↗](https://roamerradar.vercel.app)
+    
 
 ## Tech Stack
 
