@@ -20,10 +20,8 @@ workflows between landlords and tenants.
 and automated testing.
 
 - **Full-Stack Developer, Freelance Marketplace** (2022 – 2023)
-  - Built and shipped responsive web applications for clients, including a video-streaming platform and a
-digital book-learning app using React, Next.js, and Node.js.
-  - Handled client-side state with Redux and connected REST and GraphQL APIs for media playback and
-user progress tracking across devices.
+  - Built and shipped responsive web applications for clients, including a video-streaming platform and a digital book-learning app using React and Node.js.
+  - Integrated Youtube API for media playback and user progress tracking.
 
 ## Projects
 
@@ -34,16 +32,12 @@ user progress tracking across devices.
 
     **Stack:** Next.js, TypeScript, Tailwind, Supabase, React Query, Zod, Recharts
 
-    
-
   - **RoamerRadar** - Full-stack travel marketplace for booking stays, flights, cars, and experiences, with live flight search, Stripe checkout, and user messaging | [Visit Site](https://roamerradar.vercel.app)
     - Authentication with email verification plus Google and GitHub OAuth (NextAuth v5, JWT sessions, middleware-protected routes)
     - Live flight offers via the Duffel API, cached in PostgreSQL and reused at checkout
     - Stripe payment integration
 
-    **Stack:** Next.js, TypeScript, Prisma, Supabase, Stripe, Tailwind, shadcn/ui
-
-    
+    **Stack:** Next.js, TypeScript, Prisma, Supabase, Stripe, Tailwind, shadcn/ui 
 
 ## Tech Stack
 
