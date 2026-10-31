@@ -19,7 +19,7 @@ workflows between landlords and tenants.
   - Improved code quality and maintainability through code reviews, modular component architecture,
 and automated testing.
 
-- **Full-Stack Developer, Freelance Marketplace** (2022 – 2023)
+- **Full-Stack Developer, Freelance** (2022 – 2023)
   - Built and shipped responsive web applications for clients, including a video-streaming platform and a digital book-learning app using React and Node.js.
   - Integrated Youtube API for media playback and user progress tracking.
 
