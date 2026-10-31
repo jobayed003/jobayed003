@@ -1,6 +1,6 @@
 # Hi there, I'm Jobayed Hossain
 
-Full-stack engineer and Computer Science student. I build reliable, well-architected web applications, with a growing focus on backend systems and security engineering.
+Full-stack engineer and Computer Science student. I build reliable, well-architected web applications, with a growing focus on backend systems.
 
 - [LinkedIn](https://linkedin.com/in/jobayed003) 
 - [Email](mailto:jobayed803@gmail.com)
@@ -27,10 +27,20 @@ user progress tracking across devices.
 
 ## Projects
 
-### Personal Finance Tracker
-Full-stack expense tracker with guest/demo mode, AI-assisted receipt extraction, and a responsive UI.
-**Stack:** Next.js (App Router), TypeScript, Supabase, Tailwind, shadcn/ui [Live demo](https://income-expense-azure.vercel.app/)
+  - **Income Expense** - Full-stack expense tracker with a guest/demo mode, AI-assisted receipt extraction, and a UI that works on both desktop and mobile.
+    - Guest/demo mode so anyone can try the app without signing up
+    - AI-assisted receipt extraction to speed up expense entry
+    - Responsive interface designed for desktop and mobile
 
+    **Stack:** Next.js (App Router), TypeScript, Supabase, Tailwind, shadcn/ui [Live demo](https://income-expense-azure.vercel.app/)
+
+  - **RoamerRadar** - Full-stack travel marketplace for booking stays, flights, cars, and experiences, with live flight search, Stripe checkout, and user messaging.
+    - Authentication with email verification plus Google and GitHub OAuth (NextAuth v5, JWT sessions, middleware-protected routes)
+    - Live flight offers via the Duffel API, cached in PostgreSQL and reused at checkout
+    - Stripe payment intents with webhook handling
+    - Row Level Security enabled on all database tables, and runtime environment validation
+
+    **Stack:** Next.js (App Router), TypeScript, Prisma, Supabase PostgreSQL, Stripe, Tailwind, shadcn/ui [Live demo](https://roamerradar.vercel.app)
 
 ## Tech Stack
 
@@ -43,6 +53,8 @@ Full-stack expense tracker with guest/demo mode, AI-assisted receipt extraction,
 **Mobile:** Flutter
 
 **Tools:** Git, Docker, Linux, VS Code, agentic coding (Cursor)
+
+
 ---
 
 ## Currently Learning
