@@ -28,11 +28,15 @@ user progress tracking across devices.
 ## Projects
 
   - **Income Expense** - Full-stack expense tracker with a guest/demo mode, AI-assisted receipt extraction, and a UI that works on both desktop and mobile.
-    - Guest/demo mode so anyone can try the app without signing up
-    - AI-assisted receipt extraction to speed up expense entry
-    - Responsive interface designed for desktop and mobile
+    - Track income and expenses across cash, bank, and card accounts in different currencies
+    - Set monthly budgets and see spending by category
+    - View analytics per account (not mixed across accounts)
+    - Import from CSV or receipt photos; export to CSV/PDF
+    - Works offline and syncs when you’re back online
 
-    **Stack:** Next.js (App Router), TypeScript, Supabase, Tailwind, shadcn/ui [Live demo](https://income-expense-azure.vercel.app/)
+    **Stack:** Next.js, TypeScript, Tailwind, Supabase, React Query, Zod, Recharts
+
+    [Visit Site ↗](https://income-expense-azure.vercel.app/)
 
   - **RoamerRadar** - Full-stack travel marketplace for booking stays, flights, cars, and experiences, with live flight search, Stripe checkout, and user messaging.
     - Authentication with email verification plus Google and GitHub OAuth (NextAuth v5, JWT sessions, middleware-protected routes)
@@ -40,7 +44,9 @@ user progress tracking across devices.
     - Stripe payment intents with webhook handling
     - Row Level Security enabled on all database tables, and runtime environment validation
 
-    **Stack:** Next.js (App Router), TypeScript, Prisma, Supabase PostgreSQL, Stripe, Tailwind, shadcn/ui [Live demo](https://roamerradar.vercel.app)
+    **Stack:** Next.js (App Router), TypeScript, Prisma, Supabase PostgreSQL, Stripe, Tailwind, shadcn/ui
+
+    [Visit Site ↗](https://roamerradar.vercel.app)
 
 ## Tech Stack
 
