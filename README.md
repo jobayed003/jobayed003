@@ -22,8 +22,7 @@ user progress tracking across devices.
 
 ### Personal Finance Tracker
 Full-stack expense tracker with guest/demo mode, AI-assisted receipt extraction, and a responsive UI.
-**Stack:** Next.js (App Router), TypeScript, Supabase, Tailwind, shadcn/ui
-[Repo](https://github.com/jobayed003/Income-Expense) · [Live demo](https://income-expense-azure.vercel.app/)
+**Stack:** Next.js (App Router), TypeScript, Supabase, Tailwind, shadcn/ui [Live demo](https://income-expense-azure.vercel.app/)
 
 
 ## Tech Stack
