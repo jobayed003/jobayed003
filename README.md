@@ -25,7 +25,7 @@ and automated testing.
 
 ## Projects
 
-  - **Income Expense** - Full-stack expense tracker with a guest/demo mode, AI-assisted receipt extraction, and a UI that works on both desktop and mobile | [Visit Site](https://income-expense-azure.vercel.app/)
+  - **Saldori** - Full-stack expense tracker with a guest/demo mode, AI-assisted receipt extraction, and a UI that works on both desktop and mobile | [Visit Site](https://saldori.vercel.app)
     - Track income and expenses across cash, bank, and card accounts in different currencies
     - Set monthly budgets and see spending by category
     - Works offline and syncs when user is back online
